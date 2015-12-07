@@ -10,8 +10,11 @@
 		"url": "https://github.com/dvalentiate/call-connect.git"
 	},
 	"dependencies": {
+		"dotenv": "1.2.0",
+		"express": "4.13.3",
 		"lodash": "3.10.1",
-		"plivo": "0.3.3"
+		"plivo": "0.3.3",
+		"when": "3.7.3"
 	},
 	"private": false,
 	"license": "Do what you want. Anything goes. The web will keep track."
