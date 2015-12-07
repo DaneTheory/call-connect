@@ -15,8 +15,7 @@
 		"express": "4.13.3",
 		"lodash": "3.10.1",
 		"plivo": "0.3.3",
-		"node-uuid": "1.4.7",
-		"when": "3.7.3"
+		"node-uuid": "1.4.7"
 	},
 	"private": false,
 	"license": "Do what you want. Anything goes. The web will keep track."
